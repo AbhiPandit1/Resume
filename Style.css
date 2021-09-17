@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.first{
+    
+    height: 25%;
+    background-color: black;
+    color: white;
+}
+.first h1{
+    margin-left: 38%;
+    font-size:50px ;
+}
+.heading a{
+    font-size: 25px;
+    
+    color: rgb(125, 33, 231);
+}
+.heading{
+    font-size: 25px;
+    margin-left: 20%;
+}
+img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-left: 50%;
+}
+.column{
+    float: left;
+    width: 50%;
+    height: 100%;
+    background-color: rgb(219, 207, 207);
+}
+.column2{
+    float: right;
+    width: 50%;
+    height: 100% ;
+    background-color:white
+    
+}
+.column h2{
+    margin-left: 0%;
+    font-size: 40px;
+}
+.column img{
+    height: 20px;
+    width: 20px;
+    margin-left: 0%;
+}
+.language{
+    color: rgb(114, 24, 51);
+    margin-left: 20px;
+}
+.code{
+    margin-left: 50px;
+    color: black
+}
+.row{
+    font-size: 30px;
+    overflow-wrap: break-word;
+    
+}
+.contact{
+    margin-left: 2px;
+    
+}
+.column2{
+    font-size: 21.2px;
+}
